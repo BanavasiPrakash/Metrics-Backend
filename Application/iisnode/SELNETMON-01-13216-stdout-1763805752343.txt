@@ -1,0 +1,7 @@
+Backend server running on port \\.\pipe\534fe173-fadc-422b-a873-a100ec67203c
+Received request for /api/zoho-assignees-with-ticket-counts
+Access token obtained
+Fetched users count: 50
+Fetched tickets count: 3483
+Fetched missing users count: 58
+Sending response with ticket counts
